@@ -5,6 +5,9 @@ Watchdog is an app that attempts to detect when the user is in distress or under
 <br /><br />
 This project is a HackISU Fall 2019 project put together by Walter Svenddal, Jesrik Gomez, Karla Montoya, and Arnoldo Montoya.
 
+
+
+
 Inspiration
 After the attacks on two different women in Iowa this summer, we were inspired to develop an application that could have potentially helped these individuals in distress.
 
